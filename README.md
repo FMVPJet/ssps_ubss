@@ -32,7 +32,7 @@ Here is the UBSS result of [data](https://github.com/FMVPJet/ssps_ubss/tree/main
 Download project.
 
 ```
-git clone https://github.com/JetKwok/SSPs-UBSS.git
+https://github.com/FMVPJet/ssps_ubss.git
 ```
 
 Installation.
