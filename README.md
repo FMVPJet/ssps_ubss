@@ -40,11 +40,11 @@ The Python Version of [SSPs&UBSS](https://github.com/FMVPJet/ssps_ubss) Algorith
 ## 📦 Features
 
 
-Here is the cluster visualization result of [data](https://github.com/FMVPJet/ssps_ubss/data), during SSPs.
+Here is the cluster visualization result of [data](https://github.com/FMVPJet/ssps_ubss/tree/main/data), during SSPs.
 <p style="margin-left: 2em; margin-top: -1em"> <img src="__asserts__/figs/cluster.png" height="500"></p>
 
 
-Here is the UBSS result of [data](https://github.com/FMVPJet/ssps_ubss/data).
+Here is the UBSS result of [data](https://github.com/FMVPJet/ssps_ubss/tree/main/data).
 
 <table class="center">
     <tr>
@@ -133,7 +133,7 @@ TODO
 
 ## 📄 License
 
-[MIT](https://github.com/FMVPJet/ssps_ubss/LICENSE)
+[MIT](https://github.com/FMVPJet/ssps_ubss/blob/main/LICENSE)
 
 
 ---
