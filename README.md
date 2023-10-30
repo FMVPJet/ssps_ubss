@@ -129,15 +129,16 @@ TODO
 ```
 
 
-
 ---
 
 ## 📄 License
 
+[MIT](https://github.com/FMVPJet/ssps_ubss/LICENSE)
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
+
+
 
 ## 👏 Reference
 
